@@ -3,7 +3,7 @@ implement:stack
 operation:
     push
     pop
-    isEmpty
+    empty
     size
     peek
 """
